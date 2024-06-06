@@ -10,8 +10,8 @@
             "defaultValue": "/subscriptions/e7fdd42d-a1a7-4f5e-bd15-5d5763df3263/resourceGroups/lab1/providers/Microsoft.Compute/disks/testvm1_disk1_df3adea317ef4ea8bf744ee7fe8711c8",
             "type": "String"
         },
-        "networkInterfaces_testvm1582_externalid": {
-            "defaultValue": "/subscriptions/e7fdd42d-a1a7-4f5e-bd15-5d5763df3263/resourceGroups/lab1/providers/Microsoft.Network/networkInterfaces/testvm1582",
+        "networkInterfaces_testvm2582_externalid": {
+            "defaultValue": "/subscriptions/e7fdd42d-a1a7-4f5e-bd15-5d5763df3263/resourceGroups/lab1/providers/Microsoft.Network/networkInterfaces/testvm2582",
             "type": "String"
         }
     },
